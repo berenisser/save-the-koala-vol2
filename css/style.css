@@ -171,6 +171,13 @@ sup{
 	font-size: 10px;
 }
 
+.cajita-collapse{
+	background-color: #41521F;
+	color: white;
+	margin: 10px;
+	border: none;
+}
+
 
 /*-----------footer-------------*/
 .pie{
